@@ -4,3 +4,7 @@ server:
 
 info:
   mytitle: fuck
+
+config:
+  info:
+    label: giao
