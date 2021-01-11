@@ -1,3 +1,6 @@
 server:
   port:
     5557
+
+info:
+  mytitle: fuck
